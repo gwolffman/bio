@@ -27,7 +27,8 @@ Working with customers and potential customers to understand their needs and how
 ## Projects
 
 Hosted Projects I have significant contributions
-| | |
+
+| | | |
 |---|---|---|
 |[note-js](https://github.com/blues/note-js)| Javascript SDK for interfacing with [Notecard](https://blues.com/products/notecard/) | Not the most recent, but one of my favorite projects.  Developed using TDD, and supports UART and I2C communications |
 |[note-samples](https://github.com/blues/note-samples)| Mostly Python Implementations for various Notecard related applications | Includes examples for RESTful API calls, data storage, FOTA, remote command and control |
